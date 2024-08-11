@@ -1,0 +1,19 @@
+{
+  "name": "dental-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.765.0",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
