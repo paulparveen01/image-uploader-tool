@@ -1,2 +1,0 @@
-# imageTool
-Image Cropping Tool
