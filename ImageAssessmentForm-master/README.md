@@ -1,9 +1,7 @@
 # Image Assesment
-
+This is UI built into Vue JS
 ## Project setup and Installing dependencies
 ```
-gh repo clone anjan6ms/ImageAssessmentForm
-
 npm install
 ```
 
@@ -16,14 +14,13 @@ npm run serve
 ```
 npm run build
 ```
-Build is now ready in dist folder. To deploy, just copy all dist folder files and upload on S3 face-detection.com bucket
+Build is now ready in dist folder. To deploy, just copy all dist folder files and upload on AWS S3 bucket
 
 ### API
 ```
 - To Upload image to S3
 AWS S3 SDK
 - To store data into DynamoDB
-POST https://d24e4p0y2o78hs.cloudfront.net/api/form
 ```
 
 ### Customize configuration
